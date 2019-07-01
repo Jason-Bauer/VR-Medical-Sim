@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 409509415eca0234b92960593ae0038f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Anne_medulla:pasted__pCylinder6
+    100002: Anne_medulla:pCube1
+    100004: Anne_medulla:pCube2pCube3
+    100006: Anterolateral_somatosensory_pathway
+    100008: brain_and_spinal_cord
+    100010: c3
+    100012: c3_spinalcord_:group1group2pCube2
+    100014: c3_spinalcord_:group1group2pCube3
+    100016: c3_spinalcord_:pCube4group1group2
+    100018: c6
+    100020: caudate
+    100022: curve1
+    100024: curve2
+    100026: curve3
+    100028: curve4
+    100030: curve5
+    100032: curve6
+    100034: fullbrain_obj:polySurface7fullbrainstem
+    100036: fullbrain_obj:polySurface7left_cerebellum
+    100038: fullbrain_obj:polySurface7left_hemi
+    100040: fullbrain_obj:polySurface7right_cerebellum
+    100042: fullbrain_obj:right_hemipolySurface7
+    100044: Jenny_brain1
+    100046: Matt_c6:group1group2pCube2
+    100048: Matt_c6:group1group2pCube4
+    100050: Matt_c6:pCube3group1group2
+    100052: medulla_slice
+    100054: nerves
+    100056: //RootNode
+    100058: nurbsCircle1
+    100060: nurbsCircle2
+    100062: Posterior_column_medial_pathway
+    100064: primary_sensory_neuron
+    100066: primary_sensory_neuron 1
+    100068: putamen
+    100070: second_order_neuron
+    100072: second_order_sensory_neuron
+    100074: slice1
+    100076: slice1_base1
+    100078: slice_diff
+    100080: somatosensory_cortex_Jenny
+    100082: spinal_cord
+    100084: thalamus
+    100086: VPL_neuron
+    100088: VPL_neuron 1
+    400000: Anne_medulla:pasted__pCylinder6
+    400002: Anne_medulla:pCube1
+    400004: Anne_medulla:pCube2pCube3
+    400006: Anterolateral_somatosensory_pathway
+    400008: brain_and_spinal_cord
+    400010: c3
+    400012: c3_spinalcord_:group1group2pCube2
+    400014: c3_spinalcord_:group1group2pCube3
+    400016: c3_spinalcord_:pCube4group1group2
+    400018: c6
+    400020: caudate
+    400022: curve1
+    400024: curve2
+    400026: curve3
+    400028: curve4
+    400030: curve5
+    400032: curve6
+    400034: fullbrain_obj:polySurface7fullbrainstem
+    400036: fullbrain_obj:polySurface7left_cerebellum
+    400038: fullbrain_obj:polySurface7left_hemi
+    400040: fullbrain_obj:polySurface7right_cerebellum
+    400042: fullbrain_obj:right_hemipolySurface7
+    400044: Jenny_brain1
+    400046: Matt_c6:group1group2pCube2
+    400048: Matt_c6:group1group2pCube4
+    400050: Matt_c6:pCube3group1group2
+    400052: medulla_slice
+    400054: nerves
+    400056: //RootNode
+    400058: nurbsCircle1
+    400060: nurbsCircle2
+    400062: Posterior_column_medial_pathway
+    400064: primary_sensory_neuron
+    400066: primary_sensory_neuron 1
+    400068: putamen
+    400070: second_order_neuron
+    400072: second_order_sensory_neuron
+    400074: slice1
+    400076: slice1_base1
+    400078: slice_diff
+    400080: somatosensory_cortex_Jenny
+    400082: spinal_cord
+    400084: thalamus
+    400086: VPL_neuron
+    400088: VPL_neuron 1
+    2100000: dark_grey
+    2100002: lambert1
+    2100004: Matt_c6_lambert2SG1
+    2100006: Matt_c6_initialShadingGroup1
+    2300000: Anne_medulla:pasted__pCylinder6
+    2300002: Anne_medulla:pCube1
+    2300004: Anne_medulla:pCube2pCube3
+    2300006: c3_spinalcord_:group1group2pCube2
+    2300008: c3_spinalcord_:group1group2pCube3
+    2300010: c3_spinalcord_:pCube4group1group2
+    2300012: caudate
+    2300014: fullbrain_obj:polySurface7fullbrainstem
+    2300016: fullbrain_obj:polySurface7left_cerebellum
+    2300018: fullbrain_obj:polySurface7left_hemi
+    2300020: fullbrain_obj:polySurface7right_cerebellum
+    2300022: fullbrain_obj:right_hemipolySurface7
+    2300024: Matt_c6:group1group2pCube2
+    2300026: Matt_c6:group1group2pCube4
+    2300028: Matt_c6:pCube3group1group2
+    2300030: primary_sensory_neuron
+    2300032: primary_sensory_neuron 1
+    2300034: putamen
+    2300036: second_order_neuron
+    2300038: second_order_sensory_neuron
+    2300040: slice1_base1
+    2300042: somatosensory_cortex_Jenny
+    2300044: spinal_cord
+    2300046: thalamus
+    2300048: VPL_neuron
+    2300050: VPL_neuron 1
+    3300000: Anne_medulla:pasted__pCylinder6
+    3300002: Anne_medulla:pCube1
+    3300004: Anne_medulla:pCube2pCube3
+    3300006: c3_spinalcord_:group1group2pCube2
+    3300008: c3_spinalcord_:group1group2pCube3
+    3300010: c3_spinalcord_:pCube4group1group2
+    3300012: caudate
+    3300014: fullbrain_obj:polySurface7fullbrainstem
+    3300016: fullbrain_obj:polySurface7left_cerebellum
+    3300018: fullbrain_obj:polySurface7left_hemi
+    3300020: fullbrain_obj:polySurface7right_cerebellum
+    3300022: fullbrain_obj:right_hemipolySurface7
+    3300024: Matt_c6:group1group2pCube2
+    3300026: Matt_c6:group1group2pCube4
+    3300028: Matt_c6:pCube3group1group2
+    3300030: primary_sensory_neuron
+    3300032: primary_sensory_neuron 1
+    3300034: putamen
+    3300036: second_order_neuron
+    3300038: second_order_sensory_neuron
+    3300040: slice1_base1
+    3300042: somatosensory_cortex_Jenny
+    3300044: spinal_cord
+    3300046: thalamus
+    3300048: VPL_neuron
+    3300050: VPL_neuron 1
+    4300000: thalamus
+    4300002: caudate
+    4300004: putamen
+    4300006: slice1_base1
+    4300008: somatosensory_cortex_Jenny
+    4300010: Anne_medulla:pCube2pCube3
+    4300012: Anne_medulla:pCube1
+    4300014: Anne_medulla:pasted__pCylinder6
+    4300016: Matt_c6:pCube3group1group2
+    4300018: Matt_c6:group1group2pCube4
+    4300020: Matt_c6:group1group2pCube2
+    4300022: c3_spinalcord_:pCube4group1group2
+    4300024: c3_spinalcord_:group1group2pCube2
+    4300026: c3_spinalcord_:group1group2pCube3
+    4300028: fullbrain_obj:polySurface7left_cerebellum
+    4300030: fullbrain_obj:polySurface7left_hemi
+    4300032: fullbrain_obj:polySurface7fullbrainstem
+    4300034: fullbrain_obj:polySurface7right_cerebellum
+    4300036: fullbrain_obj:right_hemipolySurface7
+    4300038: spinal_cord
+    4300040: primary_sensory_neuron
+    4300042: second_order_neuron
+    4300044: VPL_neuron
+    4300046: second_order_sensory_neuron
+    4300048: primary_sensory_neuron
+    4300050: VPL_neuron
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

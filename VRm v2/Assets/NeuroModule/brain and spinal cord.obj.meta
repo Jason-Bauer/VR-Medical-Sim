@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 2e5fcc841db4b7c4a907dbd27c0f2700
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brain_and_spinal_cord_spinal_cord
+    100004: fullbrain_obj:polySurface7left_cerebellum_Jenny_brain1_brain_and_spinal_cord
+    100006: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7fullbrainstem
+    100008: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7left_hemi
+    100010: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7right_cerebellum
+    100012: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:right_hemipolySurface7
+    400000: //RootNode
+    400002: brain_and_spinal_cord_spinal_cord
+    400004: fullbrain_obj:polySurface7left_cerebellum_Jenny_brain1_brain_and_spinal_cord
+    400006: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7fullbrainstem
+    400008: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7left_hemi
+    400010: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7right_cerebellum
+    400012: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:right_hemipolySurface7
+    2100000: brain_and_spinal_cord_spinal_cordMat
+    2100002: fullbrain_obj_polySurface7left_cerebellum_Jenny_brain1_brain_and_spinal_cordMat
+    2100004: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj_polySurface7fullbrainstemMat
+    2100006: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj_polySurface7left_hemiMat
+    2100008: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj_polySurface7right_cerebellumMat
+    2100010: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj_right_hemipolySurface7Mat
+    2300000: brain_and_spinal_cord_spinal_cord
+    2300002: fullbrain_obj:polySurface7left_cerebellum_Jenny_brain1_brain_and_spinal_cord
+    2300004: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7fullbrainstem
+    2300006: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7left_hemi
+    2300008: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7right_cerebellum
+    2300010: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:right_hemipolySurface7
+    3300000: brain_and_spinal_cord_spinal_cord
+    3300002: fullbrain_obj:polySurface7left_cerebellum_Jenny_brain1_brain_and_spinal_cord
+    3300004: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7fullbrainstem
+    3300006: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7left_hemi
+    3300008: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7right_cerebellum
+    3300010: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:right_hemipolySurface7
+    4300000: brain_and_spinal_cord_spinal_cord
+    4300002: fullbrain_obj:polySurface7left_cerebellum_Jenny_brain1_brain_and_spinal_cord
+    4300004: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7fullbrainstem
+    4300006: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7left_hemi
+    4300008: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:polySurface7right_cerebellum
+    4300010: Jenny_brain1_brain_and_spinal_cord_fullbrain_obj:right_hemipolySurface7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
